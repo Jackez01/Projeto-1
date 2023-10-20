@@ -43,7 +43,9 @@ body * {
 }
 
 #container {
-    width: 360px;
+    width: 100%;
+    max-width: 588px;
+
     /* margin-right: auto; e margin-left: auto; para prencher o espaço vazio tanto na direita quanto na esquerda, 
     para usar um só para ambos, colocamos: */
     margin: 56px auto 0px;
