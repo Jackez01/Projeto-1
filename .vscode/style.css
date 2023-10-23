@@ -192,11 +192,11 @@ font-size: 24px;
 /* media queries */
 @media (min-width: 700px) {
     :root {
-        --bg-url: url(./assets/assets/bg-desktop.jpg);
+        --bg-url: url(./assets/assets/360_F_571834789_ujYbUnH190iUokdDhZq7GXeTBRgqYVwa.jpg);
     }   
 
     .light {
-        --bg-url: url(./assets/assets/bg-desktop-light.jpg);
+        --bg-url: url(./assets/assets/pngtree-abstract-background-technology-of-data-applications-image_555017.jpg);
     }
 }
 
